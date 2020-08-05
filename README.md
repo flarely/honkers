@@ -12,7 +12,10 @@
   <p>
   Please do not spam the repository with false reports, unneeded drama and spam.
   </p>
-  
+  <p>
   <b> <a href="https://discord.gg/GxfQh7H">Join our Discord server here.</a></b>
+  </p>
+  
+  <p>
   <b> <a href="http://honkers.ml">Invite honkers to your server!</a>
- 
+    </p>
