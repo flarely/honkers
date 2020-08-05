@@ -1,6 +1,6 @@
 ---
 name: others
-about: Describe this issue template's purpose here.
+about: other issues not listed.
 title: "[others]"
 labels: others
 assignees: ''
