@@ -23,7 +23,5 @@ please be clear!
 **screenshots**
 (optional)
 
-[ ] did you check the troubleshooting page? <a href="https://bit.ly/honkfaq">if not, it's here.</a>
-
 **additional context**
 any other things you need to add?
