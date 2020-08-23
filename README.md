@@ -1,7 +1,8 @@
 <h1>honkers bug report center</h1>
 
-<p>
-  Welcome to the place where you report bugs and vulnerabilities for honkers! <b>REMEMBER THAT THIS IS THE ONLY PLACE TO REPORT BUGS FOR HONKERS. ALL OTHER PLACES ARE FAKE.</b>
+<div>
+  <p>Welcome to the place where you report bugs and vulnerabilities for honkers! </p>
+  <b>REMEMBER THAT THIS IS THE ONLY PLACE TO REPORT BUGS FOR HONKERS. ALL OTHER PLACES ARE FAKE.</b>
   
   <h2>FAQ</h2>
   <p>
@@ -18,4 +19,5 @@
   
   <p>
   <b> <a href="http://honkers.ml">Invite honkers to your server!</a>
-    </p>
+  </p>
+</div>
