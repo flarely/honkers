@@ -1,5 +1,7 @@
 <h1>honkers bug report center</h1>
 
+[![honkers's Widget](https://api.botlist.space/widget/693035835452424193/4 "honkers's Widget")](https://botlist.space/bot/693035835452424193?utm_source=bls&utm_medium=widget&utm_campaign=693035835452424193)
+
 <div>
   <p>Welcome to the place where you report bugs and vulnerabilities for honkers! </p>
   <b>REMEMBER THAT THIS IS THE ONLY PLACE TO REPORT BUGS FOR HONKERS. ALL OTHER PLACES ARE FAKE.</b>
