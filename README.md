@@ -1,4 +1,4 @@
-<h1>honkers bug report center</h1>
+<h1>honkers bug report center</h1> <img src="https://botlist.space/bot/693035835452424193/badge?property=uptime.3" alt="uptime image"></h1>
 
 [![honkers's Widget](https://api.botlist.space/widget/693035835452424193/4 "honkers's Widget")](https://botlist.space/bot/693035835452424193?utm_source=bls&utm_medium=widget&utm_campaign=693035835452424193)
 
