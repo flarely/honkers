@@ -1,8 +1,13 @@
 <img src="https://cdn.discordapp.com/attachments/747300416567378031/747300550693093386/gooseink.png"></img>
 
 <h1>honkers</h1> 
-<h4><italics>a goose discord bot.</itaclics> </h4><img src="https://botlist.space/bot/693035835452424193/badge?property=uptime.3" alt="uptime image"></h1>
-    
+<h4><italics>a goose discord bot.</itaclics> </h4><img src="https://botlist.space/bot/693035835452424193/badge?property=uptime.3" alt="uptime image"></img>
+<p>
+    Based on the Untitled Goose Game, honkers is a goose discord bot with fully fledged goose features, which is... well, just honking. Fast, responsive, and terrifying, the goose honks back at you mightily every time you honk. Happy honking!
+
+honkers is now in 500+ servers!
+</p>
+</div>
 <div>
   <p>This is the place where you report bugs and vulnerabilities for honkers! </p>
   <b>REMEMBER THAT THIS IS THE ONLY PLACE TO REPORT BUGS FOR HONKERS. ALL OTHER PLACES ARE FAKE.</b>
