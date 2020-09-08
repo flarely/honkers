@@ -3,11 +3,8 @@
 <h1>honkers</h1> 
 <h4><italics>a goose discord bot.</itaclics> </h4><img src="https://botlist.space/bot/693035835452424193/badge?property=uptime.3" alt="uptime image"></h1>
 
-<a href="https://botlist.space/bot/693035835452424193?utm_source=bls&utm_medium=widget&utm_campaign=693035835452424193">
-    <img src="https://api.botlist.space/widget/693035835452424193/4">
-</a>
-
-
+    <img src="https://api.botlist.space/widget/693035835452424193/4"</img>
+    
 <div>
   <p>This is the place where you report bugs and vulnerabilities for honkers! </p>
   <b>REMEMBER THAT THIS IS THE ONLY PLACE TO REPORT BUGS FOR HONKERS. ALL OTHER PLACES ARE FAKE.</b>
