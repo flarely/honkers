@@ -10,7 +10,7 @@ honkers is now in 500+ servers!
 </div>
 <div>
   <p>This is the place where you report bugs and vulnerabilities for honkers! </p>
-  <b>REMEMBER THAT THIS IS THE ONLY PLACE TO REPORT BUGS FOR HONKERS. ALL OTHER PLACES ARE FAKE.</b>
+  <b>REMEMBER THAT THIS IS THE ONLY PLACE TO REPORT BUGS FOR HONKERS.</b>
   
   <h2>FAQ</h2>
   <p>
