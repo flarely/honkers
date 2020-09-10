@@ -25,9 +25,9 @@ honkers is now in 500+ servers!
   <b> <a href="https://discord.gg/GxfQh7H">Join our Discord server here.</a></b>
   </p>
   <p>
-  <img src="https://top.gg/api/widget/693035835452424193.svg" alt="honkers top.gg widget"></img>
-  </p>
-  <p>
   <b> <a href="http://honkers.ml">Invite honkers to your server!</a>
+  </p>
+     <p>
+  <img src="https://top.gg/api/widget/693035835452424193.svg" alt="honkers top.gg widget"></img>
   </p>
 </div>
