@@ -7,7 +7,7 @@
 
 honkers is now in 500+ servers!
 
-current version: 2.7.0
+current version: 2.8.2
 </p>
 </div>
 <div>
