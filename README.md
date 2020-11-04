@@ -1,7 +1,8 @@
 <img src="https://cdn.discordapp.com/attachments/747300416567378031/747300550693093386/gooseink.png" alt=" "></img>
 
 <h1>honkers</h1> 
-<h4><em>a goose discord bot.</em> </h4><img src="https://botlist.space/bot/693035835452424193/badge?property=uptime.3" alt="uptime image"></img>
+<h4><em>a goose discord bot.</em> </h4><img src="https://botlist.space/bot/693035835452424193/badge?property=uptime.3" alt="uptime image"></img><br>
+<div align="center"><img src="https://discord.c99.nl/widget/theme-2/693035835452424193.png"></div><br>
 <p>
     Based on the <a href="https://goose.game" alt="untitled goose game link">Untitled Goose Game</a>, honkers is a goose discord bot with fully fledged goose features, which is... well, just honking. Fast, responsive, and terrifying, the goose honks back at you mightily every time you honk. Happy honking!
 
