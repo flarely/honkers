@@ -8,7 +8,7 @@
 
 820+ servers | 4000+ users
 
-current version: 2.8.8
+current version: 3.0.0 (b2)
 </p>
 </div>
 <div>
