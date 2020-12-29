@@ -6,9 +6,9 @@
 <p>
     Based on the <a href="https://goose.game" alt="untitled goose game link">Untitled Goose Game</a>, honkers is a goose discord bot with fully fledged goose features, which is... well, just honking. Fast, responsive, and terrifying, the goose honks back at you mightily every time you honk. Happy honking!
 
-820+ servers | 4000+ users
+840+ servers | 4000+ users
 
-current version: 3.0.0 (b2)
+current version: 3.0.0 (b4)
 </p>
 </div>
 <div>
